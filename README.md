@@ -10,7 +10,7 @@ A Simple Python file to bulk convert .sph files in a folder to .wav format
 
 
 Note:
-Set your path of the folder containing .sph files to bulk convert in .py(python) file
+Set your path of the folder containing .sph files to bulk convert in sph2wav.py(python) file
 
 # Next Steps
 
